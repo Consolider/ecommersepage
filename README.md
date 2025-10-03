@@ -67,7 +67,7 @@ Syftet är att träna på:
 
 ---
 
-## ⚙️ Installation
+##   Installation
 ```bash
 # Klona repo
 git clone https://github.com/VladZGarcia/ecommersepage.git
