@@ -48,11 +48,11 @@ Syftet är att träna på:
 
 ---
 
-## ✨ Funktioner
-- ✅ Startsida med Hero-sektion och CTA, utvalda produkter
-- ✅ Produktsida med sökfunktion och kategori filtrering
-- ✅ Sökfält och navigeringsfält
-- ✅ Adminsida med formulär för uppdatering, radering och skapande av produkt
+##  Funktioner
+- Startsida med Hero-sektion och CTA, utvalda produkter
+- Produktsida med sökfunktion och kategori filtrering
+- Sökfält och navigeringsfält
+- Adminsida med formulär för uppdatering, radering och skapande av produkt
 
 ---
 
@@ -67,7 +67,7 @@ Syftet är att träna på:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 ```bash
 # Klona repo
 git clone https://github.com/VladZGarcia/ecommersepage.git
@@ -183,7 +183,7 @@ Detta projekt är utvecklat i utbildningssyfte och är inte avsett för produkti
 
 ---
 
-## ✍️ Kontakt
+##  Kontakt
 - https://github.com/VladZGarcia/
 - https://github.com/MissKowalik/
 - https://github.com/ebobic/
