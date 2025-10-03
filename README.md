@@ -4,6 +4,23 @@ En minimalistisk e-handelsplattform byggd med **Next.js 15 App Router** och **Ty
 Projektet hämtar produkter och produktdata från extern backend för att simulera en e-handelsplattform.
 Syftet med projektet är att lära oss olika tekniker inom Next.js/React.
 
+Mitt primära bidrag till projektet var:
+- Grunden för Navigation bar
+- Kontaktformuläret som Server Component med validering
+- Sökfunktionen på produktsidan med searchParams i en Client Component
+- Kategorifiltreringen på produktsidan med searchParam och use hooks
+- Admin Product Create formulär som Client Component
+- Breadcrumb
+- Toast
+- WAVE & Lighthouse genomgång och åtgärd på sidorna
+- Färdigställande av README.md
+
+Utvecklingsmöjligheter:
+- Skulle fortsätta projektet med att bygga på funktionalitet för kundvagnen
+- Skulle designa om delar där man ser produkterna (product page / featured products) så att objekten täcks på hela ytan och inte som nu när vissa produkter kapas på hälften.
+- Gemensam design på adminsidans formulär
+- Ny design på Kategorifältet
+
 ---
 
 ## 📑 Innehåll
