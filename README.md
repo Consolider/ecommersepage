@@ -23,7 +23,7 @@ Utvecklingsmöjligheter:
 
 ---
 
-## 📑 Innehåll
+## 📝 Innehåll
 - [Om projektet](#-om-projektet)
 - [Funktioner](#-funktioner)
 - [Teknologier](#-teknologier)
@@ -48,7 +48,7 @@ Syftet är att träna på:
 
 ---
 
-##  Funktioner
+## 🚀 Funktioner
 - Startsida med Hero-sektion och CTA, utvalda produkter
 - Produktsida med sökfunktion och kategori filtrering
 - Sökfält och navigeringsfält
@@ -56,7 +56,7 @@ Syftet är att träna på:
 
 ---
 
-## 🛠 Teknologier
+## 🛠️ Teknologier
 - [Next.js 15 (App Router)](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -67,7 +67,7 @@ Syftet är att träna på:
 
 ---
 
-##  Installation
+## ⚙️ Installation
 ```bash
 # Klona repo
 git clone https://github.com/VladZGarcia/ecommersepage.git
@@ -84,7 +84,7 @@ npm run dev
 
 ---
 
-## 🚀 Användning
+## 📖 Användning
 * Navigering -> navigeringsfält med sökfunktion
 * Startsida -> hero med CTA som går till alla produkter + utvalda produkter + om oss + kontact
 * Produkt -> alla produkter + sökfält + kategorifiltrering
@@ -98,7 +98,7 @@ npm run dev
 
 ---
 
-## 📂 Projektstruktur
+## 📁 Projektstruktur
 ```
 |-- app/
 |   |-- page.tsx                 # Startsida
@@ -178,12 +178,12 @@ Vill du bidra?
 
 ---
 
-##  Licens
+## 📜 Licens
 Detta projekt är utvecklat i utbildningssyfte och är inte avsett för produktion.
 
 ---
 
-##  Kontakt
+## 📬 Kontakt
 - https://github.com/VladZGarcia/
 - https://github.com/MissKowalik/
 - https://github.com/ebobic/
@@ -191,7 +191,7 @@ Detta projekt är utvecklat i utbildningssyfte och är inte avsett för produkti
 
 ---
 
-## Bilder
+##   Bilder
 ![alt text](https://github.com/VladZGarcia/ecommersepage/blob/dev/public/images/1.jpg "Startsida")
 ![alt text](https://github.com/VladZGarcia/ecommersepage/blob/dev/public/images/2.jpg "Featured Products")
 ![alt text](https://github.com/VladZGarcia/ecommersepage/blob/dev/public/images/3.jpg "Contact + Footer")
